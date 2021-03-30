@@ -1,0 +1,20 @@
+{
+    "name": "bassproshops/bienesraices_inicio",
+    "description": "bienes raices",
+    "authors": [
+        {
+            "name": "raul",
+            "email": "raulmirandagtz@gmail.com"
+        }
+    ],
+    "require": {
+  
+    },
+    "autoload": {
+        "psr-4": {
+            "Model\\":"./Models",
+            "MVC\\" :"./",
+            "Controllers\\":"./Controllers"
+        }
+    }
+}
