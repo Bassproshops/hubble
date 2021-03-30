@@ -1,7 +1,6 @@
 <?PHP 
 require_once '../config/app.php';
 
-
 use Controller\PaginasController;
 use MVC\Router;
 

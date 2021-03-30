@@ -1,6 +1,6 @@
 <?PHP
 
-namespace Controller;
+namespace Controllers;
 
 class PaginasController{
 
